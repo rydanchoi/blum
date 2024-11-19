@@ -1,8 +1,12 @@
 {
   "EXPLORE": [
-    { "total": 30 },
+    { "total": 31 },
     {
       "KEY": [
+        { "id": 32, 
+          "name": "Smart Contracts 101", 
+          "keyword": "SMARTBLUM" 
+        },
         { "id": 31, 
           "name": "What's Next for DeFi?", 
           "keyword": "BLUMNOW" 
